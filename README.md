@@ -2,6 +2,9 @@
   Emacs major mode for Systems Test and Operations Language (STOL)
 ==========================================================
 
+Written for use with STOL as used in [Integrated Test and Operations System
+(ITOS)](https://itos.gsfc.nasa.gov/) 9.4.0.
+
 ## Features ##
 * Keyword, directive, and constant highlighting
 

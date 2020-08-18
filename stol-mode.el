@@ -1,4 +1,4 @@
-;;; A simple Emacs major mode, stol-mode
+;;; A simple Emacs major mode for STOL as used in ITOS 9.4.0
 
 ;;;; Notices:
 
