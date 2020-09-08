@@ -15,7 +15,7 @@ Written for use with STOL as used in [Integrated Test and Operations System
 ## Usage ##
 See the [Lisp Libraries page in the GNU Emacs
 manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Libraries.html) for information on how
-to get Emacs to load this library. Once loaded, the '''M-x stol-mode''' command activates stol-mode.
+to get Emacs to load this library. Once loaded, the `M-x stol-mode` command activates stol-mode.
 
 ## Notices
 
