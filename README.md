@@ -12,7 +12,12 @@ Written for use with STOL as used in [Integrated Test and Operations System
 * Indentation
 * Insertion of double semi-colon (;;) when lines automatically break
 
-## Notices:
+## Usage ##
+See the [Lisp Libraries page in the GNU Emacs
+manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Libraries.html) for information on how
+to get Emacs to load this library. Once loaded, the '''M-x stol-mode''' command activates stol-mode.
+
+## Notices
 
 Copyright © 2020 United States Government as represented by the Administrator of the National Aeronautics and
 Space Administration.  No copyright is claimed in the United States under Title 17, U.S. Code. All Other
