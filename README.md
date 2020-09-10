@@ -1,5 +1,4 @@
-**[stol-mode](https://github.com/leighgarbs/stol-mode)** -
-  Emacs major mode for Systems Test and Operations Language (STOL)
+**stol-mode** - Emacs major mode for Systems Test and Operations Language (STOL)
 ==========================================================
 
 Written for use with STOL as used in [Integrated Test and Operations System
